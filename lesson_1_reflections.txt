@@ -1,0 +1,14 @@
+By completing this lesson i learnt a new command in command prompt-FC which is used for comparing two files
+
+Having easy access to all the versions of the file helps as many a times we need to rollback to our previous efforts if we ended up destroying our work or introducing a major bug in it.
+
+Many a times though some files may be physically different they may be coupled strongly or have many associations between them. Such cases are commmon in Programming world and not so common otherwise. Hence Github provides sich facilities for programmers and not provided by Google drive.
+
+Using the commands git diff we can comapare two versions of a repository(set of connected files). git log --stat command is used to log into the repository to see the detailed version of the files.
+ 
+
+How might using version control make you more confident to make changes that could break something?
+Using Version control we can checkout to the previous version of our code compare two files and hence can introduce changes confidently.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use git for android development.
