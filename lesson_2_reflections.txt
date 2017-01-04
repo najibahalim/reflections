@@ -5,8 +5,11 @@ When we initialize a repository, a .git file is created in it and the directory 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Using staging area we can add, view changes made in our working directory and commit them as per our convinience. We can commit multiple files which are strongly binded together at once.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+using the staging area you can view the changes made between your working directory , added files , and the last commit so you can ensure to commit once per logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
