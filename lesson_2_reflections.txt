@@ -1,8 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 When we initialize a repository, a .git file is created in it and the directory is transformed to a git repository 
 
 
 How is the staging area different from the working directory and the repository?
+
 What value do you think it offers?
 
 As we can commit more than one files in a repository at once, Staging area is used to bind them together and commit. 
@@ -20,6 +22,7 @@ Branches help as they help us develope code in the desired direction and mearge 
 
 
 How do the diagrams help you visualize the branch structure?
+
 Diagrams enable us to potray all the current branches and their checkout points thus enabling us to visulize the branch structure.
 
 What is the result of merging two branches together? Why do we represent it in
